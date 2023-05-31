@@ -1,0 +1,27 @@
+.add-blog_modal {
+  margin: 0 auto;
+  input {
+    background-color: rgba(0, 0, 0, .2);
+    border: none;
+    color: #fff;
+  }
+}
+.form-addtask {
+  position: relative;
+  .btn-addtask {
+    position: absolute;
+    z-index: 2;
+    bottom: -7px;
+    font-size: 35px;
+    right: 0;
+    background: none;
+    border: none;
+    color: #fff;
+  }
+}
+
+.btn-ok {
+  width: 160px;
+  margin: 30px auto 10px;
+  display: block;
+}
